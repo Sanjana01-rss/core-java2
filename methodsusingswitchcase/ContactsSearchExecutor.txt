@@ -1,0 +1,47 @@
+class ContactsSearchExecutor
+{
+	public static void main(String[] cse){
+	long dramaqueen=Contacts.searchContactsNumber("Drama Queen");
+		System.out.println(dramaqueen);//1
+		long daddy=Contacts.searchContactsNumber("Daddy");
+		System.out.println(daddy);//2
+		long mumma=Contacts.searchContactsNumber("Mumma");
+		System.out.println(mumma);//3
+		long srujana=Contacts.searchContactsNumber("Srujana");
+		System.out.println(srujana);//4
+		long manju=Contacts.searchContactsNumber("Manju");
+		System.out.println(manju);//5
+		long akshatha=Contacts.searchContactsNumber("Akshatha");
+		System.out.println(akshatha);//6
+		long soumya=Contacts.searchContactsNumber("Soumya");
+		System.out.println(soumya);//7
+		long vysh=Contacts.searchContactsNumber("Vyshnavi");
+		System.out.println(vysh);//8
+		long hema=Contacts.searchContactsNumber("Hema");
+		System.out.println(hema);//9
+		long sandya=Contacts.searchContactsNumber("Sandya");
+		System.out.println(sandya);//10
+		long ganesh=Contacts.searchContactsNumber("Ganesh");
+		System.out.println(ganesh);//11
+		long abhiram=Contacts.searchContactsNumber("Abhiram");
+		System.out.println(abhiram);//12
+		long yamini=Contacts.searchContactsNumber("Yamini");
+		System.out.println(yamini);//13
+		long spoorthij=Contacts.searchContactsNumber("Spoorti");
+		System.out.println(spoorthij);//14
+		long noor=Contacts.searchContactsNumber("Noor");
+		System.out.println(noor);//15
+		long varsha=Contacts.searchContactsNumber("Varsha");
+		System.out.println(varsha);//16
+		long aiman=Contacts.searchContactsNumber("Aiman");
+		System.out.println(aiman);//17
+		long yashu=Contacts.searchContactsNumber("Yashu");
+		System.out.println(yashu);//18
+		long uzma=Contacts.searchContactsNumber("Uzma");
+		System.out.println(uzma);//19
+		long umera=Contacts.searchContactsNumber("Umera");
+		System.out.println(umera);//20
+		long umme=Contacts.searchContactsNumber("Umme Kulsum");
+		System.out.println(umme);//21
+	}
+}
